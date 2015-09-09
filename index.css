@@ -41,6 +41,7 @@ hr{
 	border-width: 2px;
 	border-style: solid;
 	border-color:#4F4F4F;
+	width: 1101;
 
 }
 h3{
@@ -57,4 +58,9 @@ td{
 	text-align: center;
 	border-style: solid;
 	border-color: #4F4F4F;
+}
+.formulario{
+	font-size: 15px;
+	font-family: sans-serif;
+
 }
